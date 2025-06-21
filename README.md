@@ -39,7 +39,7 @@ Here are my **11 repositories**, each highlighting a specific data project:
 [**Request a database with SQL**](https://github.com/ncurrid/Request-a-database-with-SQL)  
    Movie exploration web app created with Streamlit and Python.
 
-8. [**Data collection in compliance with GDPR standards**](https://github.com/ncurrid/Data-collection-in-compliance-with-GDPR-standards)  
+[**Data collection in compliance with GDPR standards**](https://github.com/ncurrid/Data-collection-in-compliance-with-GDPR-standards)  
    Retail KPIs and automated reporting in Excel.
 
 9. [**09_Gantt_Project_Planning**](https://github.com/ncurrid/09_Gantt_Project_Planning)  
