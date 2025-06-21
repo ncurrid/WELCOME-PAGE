@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a Business Intelligence Analyst and aspiring Data Project Manager with a strong background in project coordination. Passionate about turning raw data into actionable insights, I use modern tools and collaborative approaches to drive meaningful impact.
+I'm a Business Intelligence Analyst with a strong background in project coordination. Passionate about turning raw data into actionable insights, I use modern tools and collaborative approaches to drive meaningful impact.
 
 > Explore my interactive CV here: [Power BI Interactive CV](https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9)
 
@@ -12,7 +12,7 @@ I'm a Business Intelligence Analyst and aspiring Data Project Manager with a str
 
 ## Featured projects
 
-Here are my **10 repositories**, each showcasing a key project in business intelligence, data analysis, or project coordination:
+This portfolio showcases 10 real-world projects completed during my Business Intelligence Analyst training at OpenClassrooms, covering data analysis, visualisation, reporting, and project coordination, using tools such as Power BI, SQL, Python, and Excel.:
 
 - [**Creation of a professional data portfolio**](https://github.com/ncurrid/Creation-of-a-professional-data-portfolio)  
   A full portfolio project including interactive CV, dashboards, mind maps, and planning tools designed for job applications and showcasing data skills.
