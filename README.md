@@ -1,4 +1,5 @@
-# 👋 Welcome to my data portfolio
+*This README serves as a central hub for my data projects and portfolio. Last updated: June 2025.*
+# Welcome page
 
 ## About me
 
@@ -60,7 +61,3 @@ This portfolio showcases 10 real-world projects completed during my Business Int
 - **Project management:** Retroplanning, Gantt charts, Agile methods, tasks coordination
 - **UX/UI & Communication tools:** Miro (mockups, mind maps), Loom (training videos), Notion
 - **Online Project Portfolio Tools::** GitHub, Markdown
-
-
-*This README serves as a central hub for my data projects and portfolio. Last updated: June 2025.*
-# Welcome page
