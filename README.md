@@ -14,7 +14,7 @@ I'm a Business Intelligence Analyst with a strong background in project manageme
 ## Skills
 **Data management**
 - Design of relational databases in compliance with GDPR standards
-- Data handling and manipulation using SQL, APIs, ETL tools, or dedicated platforms
+- Data handling and manipulation using SQL, APIs and an ETL tool (Power Query Editor)
 - Cleaning, structuring, and transforming data for analysis
 - Preparing reliable, consistent, and usable datasets
 
