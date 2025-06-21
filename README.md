@@ -30,7 +30,7 @@ This portfolio showcases 10 real-world projects completed during my Business Int
   Power BI dashboard to track project progress, deadlines, and resources, tailored for project managers.
 
 - [**Optimisation of the data management of a store's stock**](https://github.com/ncurrid/Optimisation-of-the-data-management-of-a-store-s-stock)  
-  Stock management improvement through data analysis and optimization strategies using Excel and Power BI.
+  Stock management improvement through data analysis and optimisation strategies using Excel and Power BI.
 
 - [**Data exploration with SQL to monitor clients' satisfaction**](https://github.com/ncurrid/Data-exploration-with-SQL-to-monitor-clients-satisfaction)  
   SQL-driven data analysis to track and interpret customer satisfaction indicators from survey results.
@@ -42,7 +42,7 @@ This portfolio showcases 10 real-world projects completed during my Business Int
   Exploration of best practices for compliant data collection and management under GDPR regulations.
 
 - [**Data visualisation with Excel**](https://github.com/ncurrid/Data-visualisation-with-Excel)  
-  Creation of clear and impactful Excel dashboards including KPIs, graphs, and timeline visualizations.
+  Creation of clear and impactful Excel dashboards including KPIs, graphs, and timeline visualisations.
 
 ---
 
