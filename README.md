@@ -1,64 +1,75 @@
 # 👋 Welcome to My Data Portfolio
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Business Intelligence Analyst and aspiring data Project Manager with a strong background in project coordination. Passionate about turning raw data into actionable insights, I use modern tools and collaborative approaches to drive impact.
+I'm a Business Intelligence Analyst and aspiring Data Project Manager with a strong background in project coordination. Passionate about turning raw data into actionable insights, I use modern tools and collaborative approaches to drive meaningful impact.
 
 > 🔍 Explore my interactive CV here:  
-> 📊 [Power BI Interactive CV](https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9)
+> [Power BI Interactive CV](https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9)
 
-> 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/nathalie-currid/)
-
----
-
-## 📁 Featured Projects
-
-Here are my **11 repositories**, each highlighting a specific data project:
-
-[**Creation of a professional data portfolio**](https://github.com/ncurrid/Creation-of-a-professional-data-portfolio)  
-   SQL-based data exploration and reporting project.
-
-[**Analysis of a business request to identify the best market segments for a clients**](https://github.com/ncurrid/Analysis-of-a-business-request-to-identify-the-best-market-segments-for-the-client)  
-   User behavior analysis for a streaming service using SQL and PostgreSQL.
-
-[**Improve a business performance**](https://github.com/ncurrid/Improve-a-business-performance)  
-   Interactive sales dashboard with KPIs built in Power BI and DAX.
-
-[**Analysis of real estate price evolution with Python**](https://github.com/ncurrid/Analyse-real-estate-price-evolution-with-Python)  
-   HR analytics dashboard including attrition, costs, and hiring trends.
-   
-[**Creation of a Power BI dashboard to visualise and monitor projects**](https://github.com/ncurrid/Creation-of-a-Power-BI-dashboard-to-visualise-and-monitor-projects-)  
-   Retail KPIs and automated reporting in Excel.
-   
-[**Optimisation of the data management of a store's stock**](https://github.com/ncurrid/Optimisation-of-the-data-management-of-a-store-s-stock)  
-   Automated price tracking script using Python and BeautifulSoup.
-
-[**Data exploration with SQL to monitor clients satisfaction**](https://github.com/ncurrid/Data-exploration-with-SQL-to-monitor-clients-satisfaction)  
-   Exploratory data analysis using Pandas and Jupyter Notebooks.
-
-[**Request a database with SQL**](https://github.com/ncurrid/Request-a-database-with-SQL)  
-   Movie exploration web app created with Streamlit and Python.
-
-[**Data collection in compliance with GDPR standards**](https://github.com/ncurrid/Data-collection-in-compliance-with-GDPR-standards)  
-   Retail KPIs and automated reporting in Excel.
-
-9. [**09_Gantt_Project_Planning**](https://github.com/ncurrid/09_Gantt_Project_Planning)  
-   Project timeline and Gantt chart built in Excel with VBA elements.
-
-10. [**10_Industry_Watch_Dashboard**](https://github.com/ncurrid/10_Industry_Watch_Dashboard)  
-    Market and job trend monitoring dashboard in Excel.
-
-11. [**11_Training_Dashboard_Loom**](https://github.com/ncurrid/11_Training_Dashboard_Loom)  
-    Beginner-focused training video and dashboard, using Loom and Power BI.
+> Connect with me on [LinkedIn](https://www.linkedin.com/in/nathalie-currid/)
 
 ---
 
-## 🧠 Tools & Skills
+## Featured Projects
 
-- **Tech Stack:** Power BI, Excel, SQL, Python (Pandas)
-- **Visualisation Tools:** Power BI, Matplotlib, Seaborn
-- **Project Management:** Gantt charts, retroplanning, Agile methodology
-- **Collaboration Tools:** GitHub, Miro for mockups, Loom for training videos, Notion
+Here are my **10 repositories**, each showcasing a key project in business intelligence, data analysis, or project coordination:
+
+- [**Creation of a professional data portfolio**](https://github.com/ncurrid/Creation-of-a-professional-data-portfolio)  
+  A full portfolio project including interactive CV, dashboards, mind maps, and planning tools designed for job applications and showcasing data skills.
+
+- [**Analysis of a business request to identify the best market segments for a client**](https://github.com/ncurrid/Analysis-of-a-business-request-to-identify-the-best-market-segments-for-the-client)  
+  Strategic segmentation analysis to support marketing decisions using Power BI and business reasoning.
+
+- [**Improve a business performance**](https://github.com/ncurrid/Improve-a-business-performance)  
+  Business performance analysis using Power BI dashboards to monitor KPIs, financials, and operational efficiency.
+
+- [**Analysis of real estate price evolution with Python**](https://github.com/ncurrid/Analyse-real-estate-price-evolution-with-Python)  
+  Exploratory data analysis of real estate prices using Python (Pandas, Matplotlib) to identify trends and insights.
+
+- [**Creation of a Power BI dashboard to visualise and monitor projects**](https://github.com/ncurrid/Creation-of-a-Power-BI-dashboard-to-visualise-and-monitor-projects-)  
+  Power BI dashboard to track project progress, deadlines, and resources, tailored for project managers.
+
+- [**Optimisation of the data management of a store's stock**](https://github.com/ncurrid/Optimisation-of-the-data-management-of-a-store-s-stock)  
+  Stock management improvement through data analysis and optimization strategies using Excel and Power BI.
+
+- [**Data exploration with SQL to monitor clients' satisfaction**](https://github.com/ncurrid/Data-exploration-with-SQL-to-monitor-clients-satisfaction)  
+  SQL-driven data analysis to track and interpret customer satisfaction indicators from survey results.
+
+- [**Request a database with SQL**](https://github.com/ncurrid/Request-a-database-with-SQL)  
+  Structured SQL queries to interact with a relational database, extract insights, and support business needs.
+
+- [**Data collection in compliance with GDPR standards**](https://github.com/ncurrid/Data-collection-in-compliance-with-GDPR-standards)  
+  Exploration of best practices for compliant data collection and management under GDPR regulations.
+
+- [**Data visualisation with Excel**](https://github.com/ncurrid/Data-visualisation-with-Excel)  
+  Creation of clear and impactful Excel dashboards including KPIs, graphs, and timeline visualizations.
+
+---
+
+### Certificates
+
+- [**Certificates**](https://github.com/ncurrid/Certificates)  
+  Collection of certifications obtained during my professional training and project work in data and BI.
+
+---
+
+## Tools & Skills
+
+- **Data & BI Tools:** Power BI, Excel, SQL, Python (Pandas, Matplotlib)
+- **Data Handling:** Data cleaning, transformation, visualization, KPIs, dashboards
+- **Project Management:** Retroplanning, Gantt charts, Agile methods, task coordination
+- **UX/UI & Communication Tools:** Miro (mockups, mind maps), Loom (training videos), Notion
+- **Version Control & Collaboration:** GitHub, Git, Markdown
+
+---
+
+## 📬 Let's Connect!
+
+I’m always open to new opportunities, project collaborations, and sharing ideas in the data space.  
+Feel free to explore my portfolio and reach out via [LinkedIn](https://www.linkedin.com/in/nathalie-currid/).
+
+*Last updated: June 2025.*
 
 ---
 
