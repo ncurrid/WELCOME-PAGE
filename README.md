@@ -5,7 +5,7 @@
 
 I'm a Business Intelligence Analyst with a strong background in project management. Passionate about turning raw data into actionable insights, I use modern tools and collaborative approaches to drive meaningful impact.
 
-> Explore my interactive CV here: [Power BI Interactive CV](https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9)
+> Explore my interactive CV: [Power BI Interactive CV](https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9)
 
 > Connect with me on [LinkedIn](https://www.linkedin.com/in/nathalie-currid/)
 
