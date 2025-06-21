@@ -59,4 +59,4 @@ This portfolio showcases 10 real-world projects completed during my Business Int
 - **Data handling:** Data cleaning, transformation, visualisation, KPIs, dashboards
 - **Project management:** Retroplanning, Gantt charts, Agile methods, tasks coordination
 - **UX/UI & Communication tools:** Miro (mockups, mind maps), Loom (training videos), Notion
-- **Online Project Portfolio Tools::** GitHub, Markdown
+- **Online project portfolio yools::** GitHub, Markdown
