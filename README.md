@@ -1,4 +1,4 @@
-*This README serves as a central hub for my data projects and portfolio. Last updated: June 2025.*
+*This README serves as a central hub for my data projects and portfolio. Last updated: June 2025*
 # Welcome page
 
 ## About me
