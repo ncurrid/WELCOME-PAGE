@@ -11,6 +11,50 @@ I'm a Business Intelligence Analyst with a strong background in project manageme
 
 ---
 
+## Skills
+#🔧 Data Management#
+Design of relational databases in compliance with GDPR standards.
+
+Data handling and manipulation using SQL, APIs, ETL tools, or dedicated platforms.
+
+Cleaning, structuring, and transforming data for analysis.
+
+Preparing reliable, consistent, and usable datasets.
+
+📊 Data Analysis & Visualization
+Exploratory, univariate, and multivariate data analysis to identify trends and correlations.
+
+Creation of accessible and tailored visualizations (Power BI, Excel, Python, etc.).
+
+Development of interactive dashboards and production of strategic reporting.
+
+Storytelling and clear presentation of results with engaging narratives.
+
+🎯 Business Intelligence & Strategy
+Identification of business needs and writing of functional specifications.
+
+Design of BI solutions: data extraction, processing, visualization, and KPI definition.
+
+Customer/product segmentation analysis to guide decision-making.
+
+Contribution to business strategy by identifying market opportunities and risks.
+
+🧠 Technology Watch & Innovation
+Continuous monitoring of data tools and analytics methodologies.
+
+Testing and adoption of new data approaches to improve proposed solutions.
+
+📅 Project Management & User Support
+Organization and planning of data projects (Gantt charts, retroplanning).
+
+Facilitation of user training workshops and support for tool adoption.
+
+Documentation of processes and sharing of best practices.
+
+Adopting a professional posture (as a consultant or peer) to effectively address business needs.
+
+
+
 ## Featured projects
 
 This portfolio showcases 10 real-world projects completed during my [Business Intelligence Analyst training](https://www.francecompetences.fr/recherche/rncp/37837/) at OpenClassrooms, covering data analysis, visualisation, reporting, and project coordination, using tools such as Power BI, SQL, Python, and Excel.
