@@ -13,7 +13,7 @@ I'm a Business Intelligence Analyst with a strong background in project manageme
 
 ## Featured projects
 
-This portfolio showcases 10 real-world projects completed during my Business Intelligence Analyst training at OpenClassrooms, covering data analysis, visualisation, reporting, and project coordination, using tools such as Power BI, SQL, Python, and Excel.
+This portfolio showcases 10 real-world projects completed during my [Business Intelligence Analyst training at OpenClassrooms](https://www.francecompetences.fr/recherche/rncp/37837/), covering data analysis, visualisation, reporting, and project coordination, using tools such as Power BI, SQL, Python, and Excel.
 
 - [**Creation of a professional data portfolio**](https://github.com/ncurrid/Creation-of-a-professional-data-portfolio)  
   A full portfolio project including interactive CV, dashboards, mind maps, and planning tools designed for job applications and showcasing data skills.
