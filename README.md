@@ -12,7 +12,7 @@ I'm a Business Intelligence Analyst with a strong background in project manageme
 ---
 
 ## Skills
-#🔧 Data Management#
+##Data Management##
 
 - Design of relational databases in compliance with GDPR standards.
 
