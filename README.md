@@ -15,28 +15,28 @@ I'm a Business Intelligence Analyst and aspiring data Project Manager with a str
 
 Here are my **11 repositories**, each highlighting a specific data project:
 
-1. [**01_Data_Exploration_SQL**](https://github.com/ncurrid/01_Data_Exploration_SQL)  
+[**Creation of a professional data portfolio**](https://github.com/ncurrid/Creation-of-a-professional-data-portfolio)  
    SQL-based data exploration and reporting project.
 
-2. [**02_Streaming_Usage_Analysis**](https://github.com/ncurrid/02_Streaming_Usage_Analysis)  
+[**Analysis of a business request to identify the best market segments for a clients**](https://github.com/ncurrid/Analysis-of-a-business-request-to-identify-the-best-market-segments-for-the-client)  
    User behavior analysis for a streaming service using SQL and PostgreSQL.
 
-3. [**03_Sales_Dashboard_POWERBI**](https://github.com/ncurrid/03_Sales_Dashboard_POWERBI)  
+[**Improve a business performance**](https://github.com/ncurrid/Improve-a-business-performance)  
    Interactive sales dashboard with KPIs built in Power BI and DAX.
 
-4. [**04_HR_Analytics_POWERBI**](https://github.com/ncurrid/04_HR_Analytics_POWERBI)  
+[**Analysis of real estate price evolution with Python**](https://github.com/ncurrid/Analyse-real-estate-price-evolution-with-Python)  
    HR analytics dashboard including attrition, costs, and hiring trends.
 
-5. [**05_Python_Web_Scraping**](https://github.com/ncurrid/05_Python_Web_Scraping)  
+[**Optimisation of the data management of a store's stock**](https://github.com/ncurrid/Optimisation-of-the-data-management-of-a-store-s-stock)  
    Automated price tracking script using Python and BeautifulSoup.
 
-6. [**06_Python_Pandas_EDA**](https://github.com/ncurrid/06_Python_Pandas_EDA)  
+[**Data exploration with SQL to monitor clients satisfaction**](https://github.com/ncurrid/Data-exploration-with-SQL-to-monitor-clients-satisfaction)  
    Exploratory data analysis using Pandas and Jupyter Notebooks.
 
-7. [**07_Streamlit_Movie_App**](https://github.com/ncurrid/07_Streamlit_Movie_App)  
+[**Request a database with SQL**](https://github.com/ncurrid/Request-a-database-with-SQL)  
    Movie exploration web app created with Streamlit and Python.
 
-8. [**08_Retail_Dashboard_Excel**](https://github.com/ncurrid/08_Retail_Dashboard_Excel)  
+8. [**Data visualisation with Excel**](https://github.com/ncurrid/Data-visualisation-with-Excel)  
    Retail KPIs and automated reporting in Excel.
 
 9. [**09_Gantt_Project_Planning**](https://github.com/ncurrid/09_Gantt_Project_Planning)  
