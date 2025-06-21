@@ -49,8 +49,7 @@ This portfolio showcases 10 real-world projects completed during my Business Int
 
 ### Certificates
 
-- [**Certificates**](https://github.com/ncurrid/Certificates)  
-  Certifications obtained during my professional training and project work in data and BI.
+- [**Certificates**](https://github.com/ncurrid/Certificates) obtained during my professional training and project work in data and BI.
 
 ---
 
