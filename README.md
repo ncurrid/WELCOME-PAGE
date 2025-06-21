@@ -26,7 +26,10 @@ Here are my **11 repositories**, each highlighting a specific data project:
 
 [**Analysis of real estate price evolution with Python**](https://github.com/ncurrid/Analyse-real-estate-price-evolution-with-Python)  
    HR analytics dashboard including attrition, costs, and hiring trends.
-
+   
+[**Creation of a Power BI dashboard to visualise and monitor projects**](https://github.com/ncurrid/Creation-of-a-Power-BI-dashboard-to-visualise-and-monitor-projects-)  
+   Retail KPIs and automated reporting in Excel.
+   
 [**Optimisation of the data management of a store's stock**](https://github.com/ncurrid/Optimisation-of-the-data-management-of-a-store-s-stock)  
    Automated price tracking script using Python and BeautifulSoup.
 
