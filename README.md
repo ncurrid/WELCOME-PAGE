@@ -1,6 +1,6 @@
-# 👋 Welcome to My Data Portfolio
+# 👋 Welcome to my data portfolio
 
-## About Me
+## About me
 
 I'm a Business Intelligence Analyst and aspiring Data Project Manager with a strong background in project coordination. Passionate about turning raw data into actionable insights, I use modern tools and collaborative approaches to drive meaningful impact.
 
@@ -11,7 +11,7 @@ I'm a Business Intelligence Analyst and aspiring Data Project Manager with a str
 
 ---
 
-## Featured Projects
+## Featured projects
 
 Here are my **10 repositories**, each showcasing a key project in business intelligence, data analysis, or project coordination:
 
@@ -64,7 +64,7 @@ Here are my **10 repositories**, each showcasing a key project in business intel
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let's connect!
 
 I’m always open to new opportunities, project collaborations, and sharing ideas in the data space.  
 Feel free to explore my portfolio and reach out via [LinkedIn](https://www.linkedin.com/in/nathalie-currid/).
@@ -74,4 +74,4 @@ Feel free to explore my portfolio and reach out via [LinkedIn](https://www.linke
 ---
 
 *This README serves as a central hub for my data projects and portfolio. Last updated: June 2025.*
-# Welcome-page
+# Welcome page
