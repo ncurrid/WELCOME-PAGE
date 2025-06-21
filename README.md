@@ -49,28 +49,18 @@ This portfolio showcases 10 real-world projects completed during my Business Int
 ### Certificates
 
 - [**Certificates**](https://github.com/ncurrid/Certificates)  
-  Collection of certifications obtained during my professional training and project work in data and BI.
+  Certifications obtained during my professional training and project work in data and BI.
 
 ---
 
 ## Tools & Skills
 
-- **Data & BI Tools:** Power BI, Excel, SQL, Python (Pandas, Matplotlib)
-- **Data Handling:** Data cleaning, transformation, visualization, KPIs, dashboards
-- **Project Management:** Retroplanning, Gantt charts, Agile methods, task coordination
-- **UX/UI & Communication Tools:** Miro (mockups, mind maps), Loom (training videos), Notion
-- **Version Control & Collaboration:** GitHub, Git, Markdown
+- **Data & BI tools:** Power BI, Excel, SQL, Python (Pandas, Matplotlib)
+- **Data handling:** Data cleaning, transformation, visualisation, KPIs, dashboards
+- **Project management:** Retroplanning, Gantt charts, Agile methods, tasks coordination
+- **UX/UI & Communication tools:** Miro (mockups, mind maps), Loom (training videos), Notion
+- **Online Project Portfolio Tools::** GitHub, Markdown
 
----
-
-## 📬 Let's connect!
-
-I’m always open to new opportunities, project collaborations, and sharing ideas in the data space.  
-Feel free to explore my portfolio and reach out via [LinkedIn](https://www.linkedin.com/in/nathalie-currid/).
-
-*Last updated: June 2025.*
-
----
 
 *This README serves as a central hub for my data projects and portfolio. Last updated: June 2025.*
 # Welcome page
