@@ -59,7 +59,7 @@ This portfolio showcases 10 real-world projects completed during my [Business In
   Stock management improvement through data analysis and optimisation strategies using Excel and Power BI.
 
 - [**Data exploration with SQL to monitor clients' satisfaction**](https://github.com/ncurrid/Data-exploration-with-SQL-to-monitor-clients-satisfaction)  
-  SQL-driven data analysis to track and interpret customer satisfaction indicators from survey results.
+  SQL driven data analysis to track and interpret customer satisfaction indicators from survey results.
 
 - [**Request a database with SQL**](https://github.com/ncurrid/Request-a-database-with-SQL)  
   Structured SQL queries to interact with a relational database, extract insights, and support business needs.
