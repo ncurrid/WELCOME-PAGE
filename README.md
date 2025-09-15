@@ -35,7 +35,6 @@ I'm a Business Intelligence Analyst with a strong background in project manageme
 - Facilitation of user training workshops and support for tool adoption
 - Documentation of processes and sharing of best practices
 
-Adopting a professional posture (as a consultant or peer) to effectively address business needs.
 
 ## Featured projects
 
