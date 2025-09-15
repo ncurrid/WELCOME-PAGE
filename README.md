@@ -22,7 +22,7 @@ I'm a Business Intelligence Analyst with a strong background in project manageme
 - Exploratory, univariate, and multivariate data analysis to identify trends and correlations
 - Creation of accessible and tailored visualisations (Power BI, Excel, Python)
 - Development of interactive dashboards and production of strategic reporting
-- Storytelling and clear presentation of results with engaging narratives
+- Storytelling and clear presentation of results
 
 **Business Intelligence & Strategy**
 - Identification of business needs and writing of functional specifications
