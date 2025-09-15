@@ -46,7 +46,7 @@ This portfolio showcases 10 real-world projects completed during my [Business In
 - [**Analysis of a business request to identify the best market segments for a client**](https://github.com/ncurrid/Analysis-of-a-business-request-to-identify-the-best-market-segments-for-the-client)  
   Strategic segmentation analysis to support marketing decisions using Power BI and business reasoning.
 
-- [**Improve a business performance**](https://github.com/ncurrid/Improve-a-business-performance)  
+- [**Business performance analysis**](https://github.com/ncurrid/Improve-a-business-performance)  
   Business performance analysis using Power BI dashboards to monitor KPIs, financials, and operational efficiency.
 
 - [**Analysis of real estate price evolution with Python**](https://github.com/ncurrid/Analyse-real-estate-price-evolution-with-Python)  
