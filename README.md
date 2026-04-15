@@ -11,31 +11,6 @@ I'm a Business Intelligence Analyst with a strong background in project manageme
 
 ---
 
-## Skills
-**Data management**
-- Design of relational databases in compliance with GDPR standards
-- Data handling and manipulation using SQL, APIs and an ETL tool (Power Query Editor)
-- Cleaning, structuring, and transforming data for analysis
-- Preparing reliable, consistent, and usable datasets
-
-**Data analysis & Visualisation**
-- Exploratory, univariate, and multivariate data analysis to identify trends and correlations
-- Creation of accessible and tailored visualisations (Power BI, Excel, Python)
-- Development of interactive dashboards and production of strategic reporting
-- Storytelling and clear presentation of results
-
-**Business Intelligence & Strategy**
-- Identification of business needs and writing of functional specifications
-- Design of BI solutions: data extraction, processing, visualisation, and KPI definition
-- Customer/product segmentation analysis to guide decision-making
-- Contribution to business strategy by identifying market opportunities and risks
-
-**Project management & User support**
-- Organisation and planning of data projects (Gantt charts, retroplanning)
-- Facilitation of user training workshops and support for tool adoption
-- Documentation of processes and sharing of best practices
-
-
 ## Featured projects
 
 This portfolio showcases 10 real-world projects completed during my [Business Intelligence Analyst](https://www.francecompetences.fr/recherche/rncp/37837/) training at OpenClassrooms, covering data analysis, visualisation, reporting, and project coordination, using tools such as Power BI, SQL, Python, and Excel.
@@ -71,6 +46,32 @@ This portfolio showcases 10 real-world projects completed during my [Business In
   Creation of clear and impactful Excel dashboards including KPIs, graphs, and timeline visualisations.
 
 ---
+
+## Skills
+**Data management**
+- Design of relational databases in compliance with GDPR standards
+- Data handling and manipulation using SQL, APIs and an ETL tool (Power Query Editor)
+- Cleaning, structuring, and transforming data for analysis
+- Preparing reliable, consistent, and usable datasets
+
+**Data analysis & Visualisation**
+- Exploratory, univariate, and multivariate data analysis to identify trends and correlations
+- Creation of accessible and tailored visualisations (Power BI, Excel, Python)
+- Development of interactive dashboards and production of strategic reporting
+- Storytelling and clear presentation of results
+
+**Business Intelligence & Strategy**
+- Identification of business needs and writing of functional specifications
+- Design of BI solutions: data extraction, processing, visualisation, and KPI definition
+- Customer/product segmentation analysis to guide decision-making
+- Contribution to business strategy by identifying market opportunities and risks
+
+**Project management & User support**
+- Organisation and planning of data projects (Gantt charts, retroplanning)
+- Facilitation of user training workshops and support for tool adoption
+- Documentation of processes and sharing of best practices
+
+
 
 ### Certificates
 
