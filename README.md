@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm a Business Intelligence Analyst with a strong background in project management. Passionate about turning raw data into actionable insights, I use modern tools and collaborative approaches to drive meaningful impact.
+I am an experienced project manager with a strong track record in leading initiatives and delivering results. I recently expanded my expertise into Business Intelligence, with a focus on transforming data into actionable insights to improve operational performance and drive meaningful impact.
 
 > Explore my CV on [Power BI Interactive CV](https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9)
 
