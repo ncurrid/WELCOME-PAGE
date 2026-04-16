@@ -3,7 +3,7 @@
 
 ## About me
 
-I am a Project Manager with a strong background in leading initiatives and delivering results. I recently expanded my expertise into Business Intelligence, with a focus on transforming data into actionable insights to improve operational performance and drive meaningful impact.
+I’m a Project Manager with a growing focus on Business Intelligence, using data to drive smarter decisions and improve performance.
 
 > Connect with me on [LinkedIn](https://www.linkedin.com/in/nathalie-currid-ab87a042/)
 
