@@ -6,7 +6,9 @@
 I’m a Project Manager with a growing focus on Business Intelligence, using data to drive decisions and improve performance.
 
 > Connect with me on [LinkedIn](https://www.linkedin.com/in/nathalie-currid-ab87a042/)
+> 
 > Access my web page [https://ncurrid.github.io/]
+> 
 > Explore my interactive [CV on Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9)
 ---
 
