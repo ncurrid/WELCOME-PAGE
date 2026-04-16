@@ -7,7 +7,7 @@ I am a Project Manager with a strong background in leading initiatives and deliv
 
 > Connect with me on [LinkedIn](https://www.linkedin.com/in/nathalie-currid-ab87a042/)
 
-> Explore my CV on [Power BI Interactive CV](https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9)
+> Explore my interactive CV on [Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9)
 ---
 
 ## Featured projects
