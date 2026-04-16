@@ -5,10 +5,9 @@
 
 I am a Project Manager with a strong background in leading initiatives and delivering results. I recently expanded my expertise into Business Intelligence, with a focus on transforming data into actionable insights to improve operational performance and drive meaningful impact.
 
-> Explore my CV on [Power BI Interactive CV](https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9)
-
 > Connect with me on [LinkedIn](https://www.linkedin.com/in/nathalie-currid-ab87a042/)
 
+> Explore my CV on [Power BI Interactive CV](https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9)
 ---
 
 ## Featured projects
