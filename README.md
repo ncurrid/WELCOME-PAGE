@@ -46,38 +46,6 @@ This portfolio showcases 10 real-world projects completed during my [Business In
 
 ---
 
-## Skills
-**Data management**
-- Design of relational databases in compliance with GDPR standards
-- Data handling and manipulation using SQL, APIs and an ETL tool (Power Query Editor)
-- Cleaning, structuring, and transforming data for analysis
-- Preparing reliable, consistent, and usable datasets
-
-**Data analysis & Visualisation**
-- Exploratory, univariate, and multivariate data analysis to identify trends and correlations
-- Creation of accessible and tailored visualisations (Power BI, Excel, Python)
-- Development of interactive dashboards and production of strategic reporting
-- Storytelling and clear presentation of results
-
-**Business Intelligence & Strategy**
-- Identification of business needs and writing of functional specifications
-- Design of BI solutions: data extraction, processing, visualisation, and KPI definition
-- Customer/product segmentation analysis to guide decision-making
-- Contribution to business strategy by identifying market opportunities and risks
-
-**Project management & User support**
-- Organisation and planning of data projects (Gantt charts, retroplanning)
-- Facilitation of user training workshops and support for tool adoption
-- Documentation of processes and sharing of best practices
-
-
-
-### Certificates
-
-- [**Certificates**](https://github.com/ncurrid/Certificates) obtained during my professional training and project work in data and BI.
-
----
-
 ## Tools & Skills
 
 - **Data & BI tools:** Power BI, Excel, SQL, Python (Pandas, Matplotlib)
@@ -85,3 +53,9 @@ This portfolio showcases 10 real-world projects completed during my [Business In
 - **Project management:** Retroplanning, Gantt charts, Agile methods, tasks coordination
 - **UX/UI & Communication tools:** Miro (mockups, mind maps), Loom (training videos), Notion
 - **Online project portfolio tools:** GitHub, Markdown
+
+---
+
+### Certificates
+
+- [**Certificates**](https://github.com/ncurrid/Certificates) obtained during my professional training and project work in data and BI.
