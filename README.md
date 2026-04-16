@@ -3,7 +3,7 @@
 
 ## About me
 
-I’m a Project Manager with a growing focus on Business Intelligence, using data to drive smarter decisions and improve performance.
+I’m a Project Manager with a growing focus on Business Intelligence, using data to drive decisions and improve performance.
 
 > Connect with me on [LinkedIn](https://www.linkedin.com/in/nathalie-currid-ab87a042/)
 
