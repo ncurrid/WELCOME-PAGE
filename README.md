@@ -16,9 +16,6 @@ I’m a Project Manager with a growing focus on Business Intelligence, using dat
 
 This portfolio showcases 10 real-world projects completed during my [Business Intelligence Analyst](https://www.francecompetences.fr/recherche/rncp/37837/) training at OpenClassrooms, covering data analysis, visualisation, reporting, and project coordination, using tools such as Power BI, SQL, Python, and Excel.
 
-- [**Creation of a professional data portfolio**](https://github.com/ncurrid/Creation-of-a-professional-data-portfolio)  
-  A full portfolio project including an interactive CV, dashboards, mind maps, and planning tools.
-
 - [**Analysis of a business request to identify the best market segments for a client**](https://github.com/ncurrid/Analysis-of-a-business-request-to-identify-the-best-market-segments-for-the-client)  
   Strategic segmentation analysis to support marketing decisions using Power BI and business reasoning.
 
@@ -37,7 +34,7 @@ This portfolio showcases 10 real-world projects completed during my [Business In
 - [**Data exploration with SQL to monitor clients' satisfaction**](https://github.com/ncurrid/Data-exploration-with-SQL-to-monitor-clients-satisfaction)  
   SQL driven data analysis to track and interpret customer satisfaction indicators from survey results.
 
-- [**Request a database with SQL**](https://github.com/ncurrid/Request-a-database-with-SQL)  
+- [**Database requests with SQL**](https://github.com/ncurrid/Request-a-database-with-SQL)  
   Structured SQL queries to interact with a relational database, extract insights, and support business needs.
 
 - [**Data collection in compliance with GDPR standards**](https://github.com/ncurrid/Data-collection-in-compliance-with-GDPR-standards)  
@@ -46,6 +43,8 @@ This portfolio showcases 10 real-world projects completed during my [Business In
 - [**Data visualisation with Excel**](https://github.com/ncurrid/Data-visualisation-with-Excel)  
   Creation of clear and impactful Excel dashboards including KPIs, graphs, and timeline visualisations.
 
+- [**Creation of a professional data portfolio**](https://github.com/ncurrid/Creation-of-a-professional-data-portfolio)  
+  A full portfolio project including an interactive CV, dashboards, mind maps, and planning tools.
 ---
 
 ## Tools & Skills
